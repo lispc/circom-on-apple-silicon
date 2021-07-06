@@ -1,6 +1,6 @@
 # Problem
 
-I want to run circom witness generator (it needs ADX/BMI2 instructions) on Apple M1 using Rosetta 2. Of source, it fails.
+I want to run circom witness generator (it needs ADX/BMI2 instructions) on Apple M1 using Rosetta 2. Of course, it fails.
 
 ```
 # it will output "Illegal instruction: 4"
